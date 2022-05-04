@@ -1,4 +1,4 @@
-# Sporidium.github.io
+# Bing Pong
 
 Simple Bootstrap themed website to display some Invisible Friends and get to know their descriptions.
 
